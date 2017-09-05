@@ -4,4 +4,5 @@ Each application's data will be stored in a seperate file.
 You can use this data forsome analystic algorithm.  
 You also can change this code to use it in a way that you like for crawling a website that you like.  
 THANK YOU for seeing this project :)  
+## Screenshots
 ![alt text](https://github.com/bahmanshadmehr/Projects-Screenshots/blob/master/Bazzar%20Crawler.PNG)
